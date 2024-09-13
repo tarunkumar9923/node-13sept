@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Hadley",
+        "last_name": "Cambell",
+        "email": "hcambell0@dagondesign.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Una",
+        "last_name": "Found",
+        "email": "ufound1@businessinsider.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Mala",
+        "last_name": "Waslin",
+        "email": "mwaslin2@360.cn",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Mariya",
+        "last_name": "Chartre",
+        "email": "mchartre3@sitemeter.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Viola",
+        "last_name": "Spellward",
+        "email": "vspellward4@deviantart.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Enrica",
+        "last_name": "Vosper",
+        "email": "evosper5@intel.com",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Izak",
+        "last_name": "Lethebridge",
+        "email": "ilethebridge6@thetimes.co.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Lynelle",
+        "last_name": "Cullnean",
+        "email": "lcullnean7@surveymonkey.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Carleen",
+        "last_name": "Bourdas",
+        "email": "cbourdas8@craigslist.org",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Lorrie",
+        "last_name": "Duddan",
+        "email": "lduddan9@wikimedia.org",
+        "gender": "Male"
+    }
+]
